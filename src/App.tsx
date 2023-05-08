@@ -7,8 +7,8 @@ import useWindowSize from "./hooks/useWindowSize";
 import { PlusOutlined } from '@ant-design/icons';
 import TextArea from "antd/es/input/TextArea";
 import { BiTrashAlt } from "react-icons/bi";
-import { BsPencil } from "react-icons/bs";
 
+// test yazılacak
 
 const deletePopoverContent = (
   <div>
